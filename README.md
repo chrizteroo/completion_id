@@ -8,7 +8,7 @@
 8. Go to public folder.
 9. Create a svg file
 10. Navigate to where you save your svg file.
-11. nright-click and open with notepad
+11. Right-click and open with notepad
 12. Copy all code in svg file
 13. go to newly created file in public folder
 14. Paste the copied svh code 
